@@ -1,16 +1,9 @@
-# googlemaproutes
+# Google Maps - Polylines and Routes
 
-A new Flutter project.
+Code for the video showing how to draw routes on google maps inside your flutter apps using polylines.
 
-## Getting Started
+How do I code this ? - https://youtu.be/rvXRc1zwFpQ
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20191128-223427](https://user-images.githubusercontent.com/8137504/69824689-a25ead80-1232-11ea-841e-e41bec6bdb94.png)
